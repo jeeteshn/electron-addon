@@ -1,0 +1,19 @@
+{
+  "name": "electron-addon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.11",
+    "nan": "^2.6.2"
+  },
+  "gypfile": true,
+  "devDependencies": {
+    "electron-rebuild": "^1.5.11"
+  }
+}
